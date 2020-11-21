@@ -11,3 +11,16 @@ C:\Users\dev\Desktop\Matheus\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.pdb
 C:\Users\dev\Desktop\Matheus\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
 C:\Users\dev\Desktop\Matheus\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
 C:\Users\dev\Desktop\Matheus\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula-20.11.2020\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula-20.11.2020\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula-20.11.2020\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula-20.11.2020\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula-20.11.2020\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula-20.11.2020\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula-20.11.2020\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula-20.11.2020\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula-20.11.2020\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula-20.11.2020\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula-20.11.2020\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula-20.11.2020\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula-20.11.2020\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.genruntimeconfig.cache

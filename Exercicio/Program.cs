@@ -7,13 +7,12 @@ namespace Exercicio
         static void Main(string[] args)
         {
             
-            string[] nome = new string[10];
-            float[] nota1 = new float[10];
-            float[] nota2 = new float[10];
-            float[] nota3 = new float[10];
-            float[] nota4 = new float[10];
-
-            string[] dados = new string[10];
+            string[] nome = new string[3];
+            float[] nota1 = new float[3];
+            float[] nota2 = new float[3];
+            float[] nota3 = new float[3];
+            float[] nota4 = new float[3];
+            string[] dados = new string[3];
 
             for (var contador = 0; contador <dados.Length; contador++)
             {
@@ -27,7 +26,7 @@ namespace Exercicio
                 Console.WriteLine("Digite segunda nota do aluno "+nome[contador]);
                 nota2[contador]= float.Parse(Console.ReadLine());
     
-                Console.WriteLine("Digite terceira nota do anulo "+nome[contador]);
+                Console.WriteLine("Digite terceira nota do aluno "+nome[contador]);
                 nota3[contador]= float.Parse(Console.ReadLine());
 
                 Console.WriteLine("Digite quarta nota do aluno "+nome[contador]);
@@ -42,16 +41,39 @@ namespace Exercicio
                 Console.Write(" nota 2: "+nota2[contador]);
                 Console.Write(" nota 3: "+nota3[contador]);
                 Console.Write(" nota 4: "+nota4[contador]);
-
+                Console.WriteLine(" -");
+                
             }
             
-        }
-        static float media()
-        {
-            Console.WriteLine("Media do aluno é: ");
-            
+            float[] media = new float[3];
+            for (int contador = 0; contador < dados.Length; contador++)
+            {
+                Console.WriteLine("----------------");
+                media[contador] = (nota1[contador] + nota2[contador] + nota3[contador] + nota4[contador]) /4;
+                Console.Write($"{nome[contador]} sua media é de: {media[contador]}");
 
+                if (media[contador] >=7 )
+                {
+                    Console.WriteLine(" - O aluno(a) foi APROVADO");
+                }else
+                {
+                    Console.WriteLine(" - O aluno(a) esta REPROVADO");
+                }    
+                
+            }
+            
+            float soma = 0;
+
+            for (var contador = 0; contador < dados.Length; contador++)
+            {
+                soma = soma + media[contador];
+            }
+            
+            float mediaSala = soma /3;
+            Console.WriteLine("----------------");
+            Console.WriteLine($"A media da sala e de: {mediaSala}");
         }
+
         
     }
     
